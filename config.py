@@ -202,7 +202,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @WarriorUnitsBots`
     
 » 𝘽𝙐𝙔 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/oo7jatji>⚡️𝙎𝙩𝙧𝙖𝙣𝙜𝙚𝙧⚡️</a>
 
-• ❣️ <a href=https://t.me/oo7jatji>RknDeveloper</a>
+• ❣️ <a href=https://t.me/oo7jatji>Warrior Developer</a>
 • ❣️ <a href=https://t.me/WarriorUnitsBots>Bot Updates</a>
 • ❣️ <a href=https://t.me/Warrior_Units>Anime Channel</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️

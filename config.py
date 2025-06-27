@@ -51,7 +51,7 @@ class Config(object):
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001987727042"))
 
     # free upload limit 
-    FREE_UPLOAD_LIMIT = 6442450944 # calculation 6*1024*1024*1024=results
+    FREE_UPLOAD_LIMIT = 4294967296 # calculation 4*1024*1024*1024=results
 
     # premium mode feature ✅
     UPLOAD_LIMIT_MODE = True 
@@ -61,7 +61,7 @@ class Config(object):
     try:
         FORCE_SUB = int(os.environ.get("FORCE_SUB", "WarriorUnitsBots")) 
     except:
-        FORCE_SUB = os.environ.get("FORCE_SUB", "Warrior_Units")
+        FORCE_SUB = os.environ.get("FORCE_SUB", "WarriorUnitsBots")
         
     # wes response configuration     
     PORT = int(os.environ.get("PORT", "8080"))

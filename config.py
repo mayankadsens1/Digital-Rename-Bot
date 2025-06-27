@@ -1,13 +1,13 @@
 # (c) @RknDeveloperr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @WarriorUnitsBots
 # Developer @RknDeveloperr
 # Special Thanks To @ReshamOwner
-# Update Channel @Digital_Botz & @DigitalBotz_Support
+# Update Channel @WarriorUnitsBots & @DigitalBotz_Support
 """
 Apache License 2.0
-Copyright (c) 2022 @Digital_Botz
+Copyright (c) 2022 @WarriorUnitsBots
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -76,7 +76,7 @@ class rkn(object):
 𝚈ᴏᴜ 𝙲ᴀɴ 𝙰ʟsᴏ 𝙲ᴏɴᴠᴇʀᴛ 𝚅ɪᴅᴇᴏ 𝚃ᴏ 𝙵ɪʟᴇ & 𝙵ɪʟᴇ 𝚃ᴏ 𝚅ɪᴅᴇᴏ
 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙰𝙻𝚂𝙾 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙲𝚄𝚂𝚃𝙾𝙼 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻 𝙰𝙽𝙳 𝙲𝚄𝚂𝚃𝙾𝙼 𝙲𝙰𝙿𝚃𝙸𝙾𝙽
 
-Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Digital_Botz 💞</b>"""
+Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @WarriorUnitsBots 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
@@ -85,7 +85,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Digital_Botz 💞</b>"""
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>{}</a></b>     
+├📊 ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/WarriorUnitsBots>Warrior Bot Updates</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -93,7 +93,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Digital_Botz 💞</b>"""
 
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/DigitalBotz_Support>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/+PgjdXXHhsIoyODZl>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
     UPGRADE_PREMIUM= """
@@ -119,7 +119,6 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Digital_Botz 💞</b>"""
 𝘗𝘳𝘪𝘤𝘦: 199
 𝘓𝘪𝘮𝘪𝘵: 1000 𝘎𝘉
 
-- 𝘋𝘪𝘴𝘤𝘰𝘶𝘯𝘵 𝘈𝘭𝘭 𝘗𝘭𝘢𝘯 𝘙𝘴.9
     """
     
     THUMBNAIL = """
@@ -148,6 +147,7 @@ Exᴀᴍᴩʟᴇ:- `/set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 💸 ᴛᴏᴛᴀʟ ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs: `{}`
 ֍ ᴜᴘʟᴏᴀᴅ: `{}`
 ⊙ ᴅᴏᴡɴʟᴏᴀᴅ: `{}`
+⚡️Join @WarriorUnitsBots ⚡️
 """
     LIVE_STATUS = """
 ⚡ ʟɪᴠᴇ sᴇʀᴠᴇʀ sᴛᴀᴛᴜs ⚡
@@ -161,6 +161,7 @@ Exᴀᴍᴩʟᴇ:- `/set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ᴜᴘʟᴏᴀᴅ: `{}`
 ᴅᴏᴡɴʟᴏᴀᴅ: `{}`
 V𝟹.𝟶.𝟶 [STABLE]
+⚡️Join @WarriorUnitsBots ⚡️
 """
     DIGITAL_METADATA = """
 ❪ SET CUSTOM METADATA ❫
@@ -169,13 +170,13 @@ V𝟹.𝟶.𝟶 [STABLE]
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @Rkn_Botz
---change-video-title @Rkn_Botz
---change-audio-title @Rkn_Botz
---change-subtitle-title @Rkn_Botz
---change-author @Rkn_Botz`
+`--change-title @WarriorUnitsBots
+--change-video-title @WarriorUnitsBots
+--change-audio-title @WarriorUnitsBots
+--change-subtitle-title @WarriorUnitsBots
+--change-author @WarriorUnitsBots`
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Digital_Botz
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @WarriorUnitsBots
 """
     
     CUSTOM_FILE_NAME = """
@@ -190,20 +191,20 @@ you can pre-add a prefix and suffix along with your new filename
 ➢ /see_suffix - Tᴏ Sᴇᴇ Yᴏᴜʀ Sᴜғғɪx !!
 ➢ /del_suffix - Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Sᴜғғɪx !!
 
-Exᴀᴍᴩʟᴇ:- `/set_suffix @Digital_Botz`
-Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
+Exᴀᴍᴩʟᴇ:- `/set_suffix @WarriorUnitsBots`
+Exᴀᴍᴩʟᴇ:- `/set_prefix @WarriorUnitsBots`
 """
     
     #⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @RknDeveloper🙏🥲
     # ᴡʜᴏᴇᴠᴇʀ ɪs ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪs ᴡᴀʀɴᴇᴅ ⚠️ ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ #ғɪʀsᴛ ᴀɴᴅ ʟᴀsᴛ ᴡᴀʀɴɪɴɢ ⚠️
-    DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
+    DEV_TXT = """<b><u>Updates Channels</b></u>
     
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digital-Rename-Bot</a>
+» 𝘽𝙐𝙔 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/oo7jatji>⚡️𝙎𝙩𝙧𝙖𝙣𝙜𝙚𝙧⚡️</a>
 
-• ❣️ <a href=https://github.com/RknDeveloper>RknDeveloper</a>
-• ❣️ <a href=https://github.com/DigitalBotz>DigitalBotz</a>
-• ❣️ <a href=https://github.com/JayMahakal98>Jay Mahakal</a> """
+• ❣️ <a href=https://t.me/oo7jatji>RknDeveloper</a>
+• ❣️ <a href=https://t.me/WarriorUnitsBots>Bot Updates</a>
+• ❣️ <a href=https://t.me/Warrior_Units>Anime Channel</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -211,13 +212,13 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @Rkn_Botz
---change-video-title @Rkn_Botz
---change-audio-title @Rkn_Botz
---change-subtitle-title @Rkn_Botz
---change-author @Rkn_Botz`
+`--change-title @WarriorUnitsBots
+--change-video-title @WarriorUnitsBots
+--change-audio-title @WarriorUnitsBots
+--change-subtitle-title @WarriorUnitsBots
+--change-author @WarriorUnitsBots`
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Digital_Botz
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @WarriorUnitsBots
 """
     
     RKN_PROGRESS = """<b>\n
@@ -226,10 +227,11 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
 ┣⪼ ⏳️ ᴅᴏɴᴇ : {0}%
 ┣⪼ 🚀 ꜱᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ ᴇᴛᴀ: {4}
+┣⪼ ⚡️Join @WarriorUnitsBots
 ╰━━━━━━━━━━━━━━━➣ </b>"""
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @WarriorUnitsBots
 # Developer @RknDeveloperr
-# Update Channel @Digital_Botz & @DigitalBotz_Support
+# Update Channel @WarriorUnitsBots & @DigitalBotz_Support

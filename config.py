@@ -42,11 +42,11 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
+    DB_NAME = os.environ.get("DB_NAME","Warrior_Rename_Bot")     
     DB_URL = os.environ.get("DB_URL","")
  
     # other configs
-    RKN_PIC = os.environ.get("RKN_PIC", "https://telegra.ph/file/b746aadfe59959eb76f59.jpg")
+    RKN_PIC = os.environ.get("RKN_PIC", "https://ibb.co/jHLQ5rB")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5222155765').split()]
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
 
